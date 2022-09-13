@@ -3,7 +3,9 @@ The documents in this repo lists steps which I often use to set up technologies 
 
 ## Current content 📑
 
-[How to configure common setting it eclipse](Eclipse.md)
+- [How to configure common setting it eclipse](Eclipse.md)
+
+- [How to change java versions](JavaVersions.md)
 
 
 ## Coming soon ✈️
